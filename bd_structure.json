@@ -1,0 +1,13 @@
+{
+    "users (Collection)": {
+        "user (UID)": {
+          "age": "",
+          "created": "timestamp",
+          "email": "",
+          "enabled": "bool",
+          "full_name": "",
+          "photoUrl": "",
+          "rfc": ""
+        }
+      }
+}
